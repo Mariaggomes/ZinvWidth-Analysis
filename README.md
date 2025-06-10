@@ -103,9 +103,9 @@ ZinvWidth/
 
 ### 📎 Supplementary Documentation
 
-📄 The **associated master's thesis**: https://doi.org/10.17181/sjdsz-79773
+📄 The **associated master's thesis** is available at https://doi.org/10.17181/sjdsz-79773.
 
-The document covers:
+The document provides:
 
 - The **theoretical background** on the Standard Model and invisible Z boson decay 
 - A detailed description of the **methodology** 
