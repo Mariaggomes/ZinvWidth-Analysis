@@ -103,7 +103,7 @@ ZinvWidth/
 
 ### 📎 Supplementary Documentation
 
-📄 This repository also includes the **associated master's thesis**: https://doi.org/10.17181/sjdsz-79773
+📄 The **associated master's thesis**: https://doi.org/10.17181/sjdsz-79773
 
 The document covers:
 
